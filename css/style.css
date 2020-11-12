@@ -1,0 +1,40 @@
+body {
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 25px;
+}
+
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+Strong {
+    color: rgb(148, 238, 148);
+    text-size-adjust: 30px;
+}
+
+
+body {
+    background: url("../Images/IMG_1269.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  h5 {
+      Font-size: 30px;
+  }
+ h6{
+     font-size: 25px;
+ }
+
+ .card-text {
+    font-size: 16px;
+ }
+
+ footer {
+    background-color: rgb(148, 238, 148);
+  }

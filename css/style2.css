@@ -1,0 +1,23 @@
+body {
+    background: url("./IMG_2356.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  Strong {
+    color: rgb(240, 112, 80);
+    text-size-adjust: 30px;
+}
+
+body {
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 25px;
+
+}
+
+footer {
+  background-color: rgb(240, 112, 80)
+}
+

@@ -18,10 +18,11 @@ p1 {
 }
 
 h2 {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 h3 {
+    margin-top: 10px;
     font-size: 18px;
 }
 
@@ -30,5 +31,13 @@ p2 {
     font-style: bold;
 }
 h4{
-    font-size: 20px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+p8{
+    margin-top: 5px;
+}
+
+p10{
+    font-size: 14px;
 }

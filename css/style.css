@@ -1,6 +1,6 @@
 body {
     font-family: 'Sansita Swashed', cursive;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
@@ -12,7 +12,7 @@ body {
 
 Strong {
     color: rgb(148, 238, 148);
-    text-size-adjust: 30px;
+    text-size-adjust: 20px;
 }
 
 
@@ -25,10 +25,10 @@ body {
   }
 
   h5 {
-      Font-size: 30px;
+      Font-size: 25px;
   }
  h6{
-     font-size: 25px;
+     font-size: 20px;
  }
 
  .card-text {

@@ -9,6 +9,11 @@ body {
     font-size: 12px;
 }
 
+Strong {
+    color:  rgb(168, 166, 166);
+    text-size-adjust: 35px;
+  }
+  
 h1 {
     font-size: 25px;
 }
@@ -41,3 +46,7 @@ p8{
 p10{
     font-size: 14px;
 }
+
+footer {
+    background-color: rgb(168, 166, 166);
+  }

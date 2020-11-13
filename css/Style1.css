@@ -10,9 +10,9 @@ body {
 
   }
 
-  Strong {
-    color: rgb(114, 169, 206);
-    text-size-adjust: 30px;
+Strong {
+  color: rgb(114, 169, 206);
+  text-size-adjust: 20px;
 }
 
 

@@ -6,12 +6,11 @@ body {
     -o-background-size: cover;
     margin-top: 5px;
     font-family: 'Sansita Swashed', cursive;
-    font-size: 12px;
 }
 
 Strong {
     color:  rgb(168, 166, 166);
-    text-size-adjust: 35px;
+    text-size-adjust: 40px;
   }
   
 h1 {
@@ -22,6 +21,13 @@ p1 {
     font-size: 15px;
 }
 
+p3{
+    font-size: 13px;
+}
+
+p4{
+    font-size: 13px;
+}
 h2 {
     font-size: 20px;
 }
@@ -32,7 +38,7 @@ h3 {
 }
 
 p2 {
-    font-size: 13px;
+    font-size: 14px;
     font-style: bold;
 }
 h4{
@@ -47,6 +53,11 @@ p10{
     font-size: 14px;
 }
 
+ul{
+font-size: 13px;
+}
+
 footer {
+    margin-top: 200px;
     background-color: rgb(168, 166, 166);
   }

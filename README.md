@@ -27,14 +27,14 @@ Then they can go to the resume page and look at the resume.
 
 ##### Images:
 1. Picture of the Navigation bar of the website when it is open.
-! [NavBar.png] (/assets/images/NavBarpic.png)
+![Navagation Bar picture](/images/NavBarpic.png)
 2. Picture of the index page.
-! [Indexpic.png] (/assets/images/Indexpic.png)
+![Index picture ](/images/Indexpic.png)
 3. Picture of the portfolio page.
-! [Portfoliopic.png] (/assets/images/Portfoliopic.png)
+![Portfolio picture](/images/Portfoliopic.png)
 4. Picture of the contact page.
-! [Contactpic.png] (/assets/images/Contactpic.png)
+![Contact picture ](/images/Contactpic.png)
 5. Picture of the Resume Page.
-! [Resumepic.png] (/assets/images/resumepic.png)
+![Resume page](/images/resumepic.png)
 
 

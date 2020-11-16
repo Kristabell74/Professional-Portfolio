@@ -37,6 +37,6 @@ I copied my original portfolio and created a professional portfolio. A repositor
 4. Picture of the contact page.
 ![Contact picture ](/Website-Screenshots/Contactpic.png)
 5. Picture of the Resume Page.
-![Resume page](/Website-Screenshots/resumepic.png)
+![Resume page](/Website-Screenshots/Resumepic.png)
 
 

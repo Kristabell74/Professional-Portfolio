@@ -6,13 +6,13 @@ body {
     -o-background-size: cover;
     margin-top: 50px;
     font-family: 'Sansita Swashed', cursive;
-    font-size: 15px;
+    
 
   }
 
 Strong {
-  color: rgb(114, 169, 206);
-  text-size-adjust: 20px;
+  color:  rgb(168, 166, 166);
+  text-size-adjust: 30px;
 }
 
 
@@ -21,6 +21,6 @@ p{
 }
 
 footer {
-  background-color: rgb(114, 169, 206);
+  background-color:  rgb(168, 166, 166);
 }
 

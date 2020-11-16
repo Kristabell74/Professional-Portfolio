@@ -4,20 +4,21 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    font-family: 'Sansita Swashed', cursive;
   }
 
 Strong {
-  color: rgb(240, 112, 80);
-  text-size-adjust: 25px;
+  color:  rgb(168, 166, 166);
+  text-size-adjust: 30px;
 }
 
-body {
-    font-family: 'Sansita Swashed', cursive;
+image {
+
     font-size: 20px;
 
 }
 
 footer {
-  background-color: rgb(240, 112, 80)
+  background-color: rgb(168, 166, 166);
 }
 

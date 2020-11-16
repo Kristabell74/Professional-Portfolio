@@ -10,7 +10,7 @@ body {
 
 Strong {
     color:  rgb(168, 166, 166);
-    text-size-adjust: 40px;
+    text-size-adjust: 30px;
   }
   
 h1 {
@@ -53,6 +53,10 @@ p10{
     font-size: 14px;
 }
 
+.icon {
+  
+} 
+
 ul{
 font-size: 13px;
 }
@@ -61,3 +65,4 @@ footer {
     margin-top: 200px;
     background-color: rgb(168, 166, 166);
   }
+ 

@@ -25,6 +25,8 @@ I copied my original portfolio and created a professional portfolio. A repositor
 2. www.stackflow.com
 3. www.getbootstrap.com
 
+##### License MIT
+
 ##### Images:
 1. Picture of the Navigation bar of the website when it is open.
 ![Navagation Bar picture](assets/images/NavBarpic.png)

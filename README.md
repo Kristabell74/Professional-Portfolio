@@ -29,14 +29,14 @@ I copied my original portfolio and created a professional portfolio. A repositor
 
 ##### Images:
 1. Picture of the Navigation bar of the website when it is open.
-![Navagation Bar picture](assets/images/NavBarpic.png)
+![Navagation Bar picture](/Website-Screenshots/NavBarpic.png)
 2. Picture of the index page.
-![Index picture ](assets/images/Indexpic.png)
+![Index picture ](/Website-Screenshots/Indexpic.png)
 3. Picture of the portfolio page.
-![Portfolio picture](/images/Portfoliopic.png)
+![Portfolio picture](/Website-Screenshots/Portfoliopic.png)
 4. Picture of the contact page.
-![Contact picture ](/images/Contactpic.png)
+![Contact picture ](/Website-Screenshots/Contactpic.png)
 5. Picture of the Resume Page.
-![Resume page](/images/resumepic.png)
+![Resume page](/Website-Screenshots/resumepic.png)
 
 

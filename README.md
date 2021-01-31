@@ -23,7 +23,7 @@ I copied my original portfolio and created a professional portfolio. A repositor
 ##### Links:
 
 1. https://kristabell74.github.io/Professional-Portfolio/
-2.
+2. https://github.com/Kristabell74/Professional-Portfolio.git
 
 ##### Credits:
 

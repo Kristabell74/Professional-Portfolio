@@ -19,6 +19,12 @@ I copied my original portfolio and created a professional portfolio. A repositor
 8. The user can then navigate to the contact page and email me.
 9. All of the pages are easy to navigate and they have fantastic background pictures. 
 
+
+##### Links:
+
+1. https://kristabell74.github.io/Professional-Portfolio/
+2. https://github.com/Kristabell74/Professional-Portfolio.git
+
 ##### Credits:
 
 1. www.w3docs.com
